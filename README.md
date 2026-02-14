@@ -1,7 +1,7 @@
 # primetrade-trader-sentiment-analysis
 Objective
 This project analyzes how Bitcoin market sentiment (Fear/Greed index) relates to trader performance and behavior on Hyperliquid. The goal is to identify behavioral patterns and propose sentiment-aware trading adjustments.
-Methodology
+# Methodology
 1.Cleaned and validated both datasets (missing values, duplicates).
 2.Converted timestamps and aligned both datasets at daily level.
 3.Merged trader data with daily sentiment classification.
